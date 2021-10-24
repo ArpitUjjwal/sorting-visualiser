@@ -8,4 +8,4 @@
 - Merge Sort
 
 
-<img src="webpage.png"> <br/>
+<img src="screenshot.png"> <br/>
